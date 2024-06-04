@@ -9,7 +9,7 @@ streamlit run dashboards.py
 ```
 Certifique-se de ter todas as bibliotecas instaladas
 [Pandas](https://pandas.pydata.org/)
-[Plotly]([http://projetodesenvolve.com.br](https://plotly.com/graphing-libraries/))
+[Plotly](https://plotly.com/graphing-libraries/)
 [Streamlit](https://streamlit.io/)
 
 Para instalar as Bibliotecas pelo terminal, utilize o seguinte comando:
