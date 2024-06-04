@@ -15,7 +15,7 @@ pip install pandas plotly streamlit
 #
 Para executar o Dashboard utilize o seguinte comando no terminal:
 ```
-streamlit run dashboards.py
+streamlit run brasil_dashboard.py
 ```
 
 
