@@ -1,0 +1,80 @@
+/*Define cor de Fundo*/
+.main.st-emotion-cache-bm2z3a.ea3mdgi8{
+  background-color: #0D0D0D;
+}
+
+/* Define cores e modifica letras */
+.stMarkdown, [data-testid="stHorizontalBlock"] , [data-testid="baseButton-header"], .st-emotion-cache-1jmvea6.e1nzilvr4 {
+  color: white;
+}
+
+p {
+  font-weight: 700;
+}
+
+h1, h3, h4 {
+  color: white;
+}
+
+/* Apaga Barra de cabeçalho do Streamlit*/
+[data-testid="stHeader"] { 
+  display: none;           
+}
+
+/* SideBar*/
+.st-emotion-cache-6qob1r {
+  background-color: #02401D;
+}
+
+h2 {
+  color: #01c708;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+/* Modifica Nome e PDITA */
+[data-baseweb="select"] {
+  padding-bottom: 280px;
+}
+
+/* Métricas */
+[data-testid="stMetric"] {
+  border: 3px solid #04BF20; 
+  background-color: #0f0f0f; 
+  padding: 10px; 
+  border-radius: 7px; 
+  text-align: center;
+  height: 110px;
+  width: auto;
+  box-shadow: 1px 2px 7px #267341; 
+  border-radius: 10px; 
+  margin: 20px 0; 
+}
+
+[data-testid="stMetricDeltaIcon-Up"] {  /* Apaga ícone do crescimento do PIB*/
+  display: none;
+}
+
+/* Título das métricas */
+[data-testid="stMetricLabel"] {
+  color: #1aff00;
+  font-size: 15px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+/* Gráficos Internos */
+.main-svg {
+  
+  border: 3px solid #00ec08;
+    border-radius: 5px; 
+    padding: 10px; 
+    margin-bottom: 20px; 
+    box-sizing: border-box; 
+}
+
+
+
+
