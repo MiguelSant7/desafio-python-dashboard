@@ -25,4 +25,7 @@ streamlit run brasil_dashboard.py
 | `styles.css` | Contrúdo para estilização do Dashboard utilizando CSS. |
 | `indices_pobreza_consolidado.csv`   | Base de dados indicando os indices de pobreza.   |
 | `states.csv`   | Base de dados indicando os índices brasileiros.   |
+#
+### Dados
+#indices_pobreza_consolidado.csv
 
