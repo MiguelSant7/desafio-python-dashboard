@@ -41,4 +41,6 @@ streamlit run brasil_dashboard.py
 * Cities count: Soma total de Cidades baseada no Estado.         
 * GDP: PIB(Produto Interno Bruto) que é a soma de todos os bens e serviços produzidos em uma região.                
 * GDP rate: Taxa de Crescimento do PIB por região.
-
+#
+### Contato
+[Linkedin](www.linkedin.com/in/miguel-santos-17b931259)
