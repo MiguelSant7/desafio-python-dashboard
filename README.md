@@ -43,4 +43,4 @@ streamlit run brasil_dashboard.py
 * GDP rate: Taxa de Crescimento do PIB por região.
 #
 ### Contato
-[Linkedin](www.linkedin.com/in/miguel-santos-17b931259)
+[Linkedin](https://www.linkedin.com/in/miguel-santos-17b931259/)
