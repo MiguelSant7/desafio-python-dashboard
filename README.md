@@ -1,7 +1,7 @@
-# 📈🇧🇷 Dashboard de Índices brasileiros
+# 📈 Dashboard de Índices brasileiros
 Esse Dashboard apresenta índices brasileiros baseados em métricas, indicando os dados presentes no arquivo csv baseado no estado escolhido.
 #
-### Instruções e Instalação
+### 💻 Instruções e Instalação
 O Dashboard foi criado utilizando a versão 3.12.3 do Python.
 #
 Certifique-se de ter todas essas bibliotecas instaladas:
@@ -18,7 +18,7 @@ Para executar o Dashboard utilize o seguinte comando no terminal:
 streamlit run brasil_dashboard.py
 ```
 #
-### Estruturação
+### 🏗️ Estruturação
 | Arquivo   | Descrição |
 | :-------- | :------- |
 | `brasil_dashboard.py.py`  | Arquivo Principal na linguagem Python. Contém a estrutura do Dashbard, Utilizando manipulação de dados com a biblioteca Pnadas, Criação de Gráficos com plotly, e manipulação gráfica principal com Streamlit.    |
@@ -42,6 +42,6 @@ streamlit run brasil_dashboard.py
 * GDP: PIB(Produto Interno Bruto) que é a soma de todos os bens e serviços produzidos em uma região.                
 * GDP rate: Taxa de Crescimento do PIB por região.
 #
-### Contato
+### ☎️ Contato
 [Linkedin](https://www.linkedin.com/in/miguel-santos-17b931259/)
 Email: miguelsantoss006@gmail.com
