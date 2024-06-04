@@ -1,6 +1,6 @@
-# 🇧🇷 Dashboard de Índices brasileiros
+# 📈🇧🇷 Dashboard de Índices brasileiros
 Esse Dashboard apresenta índices brasileiros baseados em métricas, indicando os dados presentes no arquivo csv baseado no estado escolhido.
-
+#
 ### Instruções e Instalação
 O Dashboard foi criado utilizando a versão 3.12.3 do Python.
 #
@@ -26,7 +26,7 @@ streamlit run brasil_dashboard.py
 | `indices_pobreza_consolidado.csv`   | Base de dados indicando os indices de pobreza.   |
 | `states.csv`   | Base de dados indicando os índices brasileiros.   |
 #
-### Dados utilizados(Apenas os principais dados extraídos)
+### 📊Dados utilizados(Apenas os principais dados extraídos)
 ## indices_pobreza_consolidado.csv
 * pobreza: Número total de pessoas em estado de pobreza.
 * extrema_pobreza: Número total de pessoas em estado de extrema pobreza.
@@ -44,3 +44,4 @@ streamlit run brasil_dashboard.py
 #
 ### Contato
 [Linkedin](https://www.linkedin.com/in/miguel-santos-17b931259/)
+Email: miguelsantoss006@gmail.com
