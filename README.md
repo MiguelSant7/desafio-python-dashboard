@@ -8,7 +8,6 @@ Certifique-se de ter todas essas bibliotecas instaladas:
 [Pandas](https://pandas.pydata.org/), 
 [Plotly](https://plotly.com/graphing-libraries/), 
 [Streamlit](https://streamlit.io/)
-#
 Para instalar as Bibliotecas pelo terminal, utilize o seguinte comando:
 ```
 pip install pandas plotly streamlit
