@@ -23,7 +23,7 @@ h1, h3, h4 {
 
 /* SideBar*/
 .st-emotion-cache-6qob1r {
-  background-color: #02401D;
+  background-color: #044D29;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h2 {
 /* Métricas */
 [data-testid="stMetric"] {
   border: 3px solid #04BF20; 
-  background-color: #0f0f0f; 
+  background-color: #000806; 
   padding: 10px; 
   border-radius: 7px; 
   text-align: center;
@@ -67,14 +67,9 @@ h2 {
 
 /* Gráficos Internos */
 .main-svg {
-  
   border: 3px solid #00ec08;
-    border-radius: 5px; 
-    padding: 10px; 
-    margin-bottom: 20px; 
-    box-sizing: border-box; 
+  border-radius: 4px; 
+  padding: 10px; 
+  margin-bottom: 20px; 
+  box-sizing: border-box; 
 }
-
-
-
-
